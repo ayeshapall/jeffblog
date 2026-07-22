@@ -1,1 +1,2 @@
-# first_ever_web-code
+First time trying HTML. 
+High school student work 
